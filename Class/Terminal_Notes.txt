@@ -3,3 +3,11 @@ Notes on Terminal Commands
 ls: lists every file/folder in directory
 
 cd: changes the directory you are in
+
+clear: clears the terminal window
+
+pwd: shows you where you are in the computer
+
+mkdir: makes a directory/folder in current location
+
+vi: opens a file with the text editor
