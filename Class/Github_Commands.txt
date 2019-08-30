@@ -1,5 +1,0 @@
-Stage, Commit, and Push to GitHub Notes
-
-1. git add Class
-2. git commit -m "notes for yourself"
-3. git push
