@@ -1,0 +1,7 @@
+vi Commands
+
+i - start editing
+esc - stop editing
+:# - brings you to a certain line in the file
+:w - saves the file
+:q - quits and returns to the terminal
