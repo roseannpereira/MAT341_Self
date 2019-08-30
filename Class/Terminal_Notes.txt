@@ -1,0 +1,5 @@
+Notes on Terminal Commands
+
+ls: lists every file/folder in directory
+
+cd: changes the directory you are in
